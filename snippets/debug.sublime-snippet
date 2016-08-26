@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+System.debug('${1:XXX}: ' + ${1:XXX}); 
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>debug</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.cls</scope> -->
+    <description>Print Debug</description>
+</snippet>

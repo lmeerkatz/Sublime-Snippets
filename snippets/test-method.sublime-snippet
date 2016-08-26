@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/**
+* @description $1
+*/
+@isTest 
+static void test$2() {
+    
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>test method</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>Test Method</description>
+</snippet>

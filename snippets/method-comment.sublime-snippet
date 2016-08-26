@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+/**
+* @description <Returns field describe data>
+* @param <objectName> <the name of the object to look up>
+* @param <fieldName> <the name of the field to look up>
+* @return <the describe field result for the given field>
+* @example
+* <Account a = new Account();>
+*/
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>method comment</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>Method Description</description>
+</snippet>
